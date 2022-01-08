@@ -138,9 +138,13 @@ color: beige;
 .lkj{
 color: blueviolet;
 }
-h4{
-    background-color:rgb(42, 42, 128);
+footer{
+    background-color: black;
     text-align: center;
+}
+h4{
+
+    color: blanchedalmond;
 }
 
 
